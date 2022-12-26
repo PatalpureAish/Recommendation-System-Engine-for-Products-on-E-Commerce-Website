@@ -1,8 +1,7 @@
 # Recommendation-System-Engine-for-Products-on-E-Commerce-Website
-Machine Learning based recommendation system for E-commerce webite
-Recommendation System Engine for Products on E-Commerce Website
+Machine Learning used to design system which recommendes products to user based on various scenarios.
 
-Data driven recommendation system can assist a business improve user  experience on website and result in better customer acquisition and retention.
+A data driven recommendation system can assist a business improve user  experience on website and result in better customer acquisition and retention.
 
 
 ## Documentation
