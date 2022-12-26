@@ -25,9 +25,9 @@ It is a great strategy to target the new customers with the most popular product
 2.Recommendation System - B
 
 Model-based collaborative filtering system:
-Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.
+Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items similar to that of a particular customer.
 
-A model based collaborative filtering technique is chosen here as it helps in making predicting products for a particular user by identifying patterns based on preferences from multiple user data.The concept of Singular Value Decomposition is used here.
+A model based collaborative filtering technique is chosen here as it helps in predicting products for a particular user by identifying patterns based on preferences from multiple user data.The concept of Singular Value Decomposition is used here.
 It recommendes top 10 highly correlated products in sequence based on a customer's purchase history.
 
 3.Recommendation System- C 
